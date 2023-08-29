@@ -1,2 +1,13 @@
-# IQE-Craft-Server
-This is the project homepage of the IQE server
+# 什么是IQE？
+IQE是Infinite Quadratic Element服务器的简称，是由TBS Three Body服务器升级重组而来的Minecraft服务器。说白了就是有个笨逼把自己的TBS服务器搞坏了然后换个图换个版本又开了个服务器（划掉）
+服务器qq交流群：516587529
+
+# 架构
+服务器采用BC端+CBR+MCDR+Fabric的结构（草）
+
+# 为什么创建本项目？
+1、托管部分需要对外开放的文件，在防止ip泄露的同时提高兼容性
+2、装逼（划掉）
+
+# 你可以做什么？
+你可以加入我们服务器，并在本项目或项目部分链接获得重要的公开的资料。
